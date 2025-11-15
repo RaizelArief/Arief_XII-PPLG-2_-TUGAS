@@ -2,3 +2,4 @@ exclude:
   - node_modules/
   - Gemfile
   - Gemfile.lock
+  - backend/
